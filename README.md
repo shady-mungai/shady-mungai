@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shadrack</h1>
-<h3 align="center">A passionate frontend developer from Kenya.</h3>
+<h3 align="center">A passionate full-stack developer from Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shady-mungai&label=Profile%20views&color=0e75b6&style=flat" alt="shady-mungai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shady-mungai" alt="shady-mungai" /></a> </p>
 
-- 🔭 I’m currently working on [the stellar space project](https://github.com/shady-mungai/Stellar-space)
+- 🌱 I’m currently working on my CapStone project at Moringa School
 
-- 🌱 I’m currently learning **Ruby, SQL**
+- 💻 Looking forward to learning Cyber-Security 
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React,Ruby,Ruby On Rails**
 
 - 📫 How to reach me **shadrackmungai10@gmail.com**
 
