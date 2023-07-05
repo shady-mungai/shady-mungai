@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shady-mungai" alt="shady-mungai" /></a> </p>
 
-- 🌱 I’m currently working on my CapStone project at Moringa School
+- 🌱 Currently pursuing a degree in Informatics and Computer Science 
 
-- 💻 Looking forward to learning Cyber-Security 
+- 💻  A certified Full-Stack developer from Moringa School
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React,Ruby,Ruby On Rails**
 
